@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find User</string>
+    <string name="name">name</string>
+    <string name="search">Search</string>
+</resources>
